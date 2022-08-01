@@ -1,3 +1,20 @@
+<<<<<<< HEAD
 *.py
 *.java
 
+=======
+added  .gitignore file
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Mon Aug 1 19:02:35 2022 +0530
+#
+# On branch main
+# Your branch is ahead of 'origin/main' by 2 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#
+>>>>>>> ba
